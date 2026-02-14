@@ -1,5 +1,1 @@
-HHEAD
-Salam, bu MAIN budagindan gelen
-Salam, bu feature budagindan gelen mesajdir
- feature-greeting
-
+Message from main branch
