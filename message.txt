@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-Salam, bu MAIN budagindan gelen mesajdir
-=======
+HHEAD
+Salam, bu MAIN budagindan gelen
 Salam, bu feature budagindan gelen mesajdir
->>>>>>> feature-greeting
+ feature-greeting
+
